@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">My Film</string>
+    <string name="movies_name">Nama Film</string>
+    <string name="description">Deskripsi</string>
+    <string name="about">About</string>
+    <string-array name="data_name">
+        <item>ANT MAN</item>
+        <item>FLASH</item>
+        <item>GATOT KACA</item>
+        <item>GUARDIAN OF GALAXY</item>
+        <item>IRON MAN</item>
+        <item>SHAZAM</item>
+        <item>SRI ASIH</item>
+        <item>SUPERMAN</item>
+        <item>VENOM</item>
+        <item>WAKANDA</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Ant-Man, pahlawan mikroskopis dalam Marvel Cinematic Universe (MCU), kembali dalam petualangan epiknya yang ketiga, "Ant-Man and the Wasp: Quantumania." Kali ini, dia menghadapi musuh yang tak terbayangkan, Kang the Conqueror, seorang penjahat yang mengendalikan waktu. Scott Lang, yang kembali diperankan dengan brilian oleh Paul Rudd, harus menggabungkan kekuatannya dengan Wasp dan sekutunya dalam perjalanan seru untuk menyelamatkan dunia dari ancaman yang lebih besar dari sebelumnya. Dengan aksi luar biasa, humor yang menghibur, dan visual efek yang memukau, film ini akan membawa penonton dalam perjalanan yang tak terlupakan melintasi dimensi waktu dan ruang.</item>
+        <item>"The Flash" adalah kisah penuh aksi tentang Barry Allen, seorang ilmuwan forensik yang mendapatkan kekuatan luar biasa setelah terkena petir yang mengubahnya menjadi superhero berkecepatan kilat. Dengan kemampuan supernya, Barry memerangi kejahatan di Central City sebagai Flash. Namun, ia juga harus menghadapi penjahat-penjahat super yang kuat yang menggunakan kekuatan mereka untuk tujuan jahat. Sambil menjaga identitas rahasianya, Barry berusaha memahami asal-usul kekuatannya dan mengungkap misteri yang melibatkan pembunuhan ibunya. Dalam perjalanan ini, dia mengeksplorasi hubungan pribadinya, menjalin persahabatan dengan pahlawan lain, dan menjadi pahlawan bagi kota dan dunia.</item>
+        <item>"Gatotkaca" adalah sebuah epik penuh aksi yang mengisahkan perjalanan pahlawan legendaris dari mitologi Jawa. Gatotkaca, dengan kekuatannya yang dahsyat, tampil sebagai penjaga kerajaan dari berbagai ancaman dan musuh yang mengintai. Kisahnya penuh dengan petualangan epik, persahabatan, dan nilai-nilai kepahlawanan. Gatotkaca menggunakan kekuatannya untuk melindungi rakyatnya dan menjaga perdamaian di kerajaannya. Dalam pertarungan melawan makhluk-makhluk mistis dan penjahat jahat, dia membuktikan keberaniannya dan kesetiaannya pada keadilan. Gatotkaca menginspirasi generasi selanjutnya dengan kisah kepahlawanannya yang legendaris, dan menjadi ikon budaya Indonesia yang tak terlupakan.</item>
+        <item>"Guardians of the Galaxy" adalah petualangan luar angkasa yang menggabungkan aksi, komedi, dan karakter-karakter unik. Kelompok penjaga angkasa yang terdiri dari Peter Quill, Gamora, Drax, Rocket, dan Groot, berjuang untuk melindungi galaxy dari ancaman penjahat intergalaksi dan entitas kosmik yang jahat. Dengan kecerdasan, kekuatan, dan seni berbagai senjata, mereka membentuk ikatan tak terduga yang kuat saat mereka menghadapi musuh-musuh yang kuat. Sementara mereka mungkin tidak menjadi pahlawan konvensional, mereka membuktikan bahwa bahkan yang paling tidak biasa bisa membuat perbedaan besar dalam melindungi galaksi dari malapetaka. Film ini merayakan keragaman dan persatuan dalam perjuangan melawan kejahatan.</item>
+        <item>Iron Man, atau Tony Stark, adalah seorang jenius, miliarder, playboy, dan filantropis yang menciptakan baju besi canggih yang memberinya kekuatan dan daya tahan super. Dia menggunakan baju besi tersebut untuk melindungi dunia dari ancaman dan menjadi salah satu anggota Avengers. Iron Man memiliki banyak kekuatan dan senjata, termasuk kemampuan terbang, kekuatan fisik yang luar biasa, dan senjata energi. Selain itu, Iron Man juga dikenal sebagai simbol kekuatan mental baja dan ketangguhan dalam menghadapi tantangan hidup.</item>
+        <item>"Shazam! The Fury of Gods" adalah petualangan epik yang mengikuti perjalanan Billy Batson, seorang anak remaja yang bisa berubah menjadi superhero dewasa dengan mengucapkan kata "Shazam." Dalam sekuel ini, Billy harus menghadapi ancaman baru yang datang dari saudara-saudara dewanya yang jahat. Sambil menjaga hubungan dengan saudara-saudaranya, dia harus menjelajahi lebih dalam kekuatannya dan menguasai sejumlah kemampuan baru yang diberikan oleh para dewa. Film ini penuh dengan aksi spektakuler, humor, dan pesan tentang keberanian, persaudaraan, dan tanggung jawab. Billy dan keluarganya harus bersatu untuk melindungi dunia dari ancaman yang lebih besar.</item>
+        <item>Sri Asih adalah karakter superhero perempuan Indonesia yang diciptakan oleh R.A. Kosasih pada tahun 1954. Sri Asih merupakan jagoan pertama Indonesia yang mampu mendidik lewat perilakunya yang sopan santun dan ramah. Dalam film Sri Asih (2022), Sri Asih diceritakan sebagai seorang petinju profesional bernama Alana yang sering bergelut dengan emosi berlebihannya. Sri Asih memiliki kekuatan super yang sangat dahsyat dan hanya akan keluar jika dilawannya dengan kebaikan, bukan amarah atau rasa dendam. Film Sri Asih (2022) dibintangi oleh Pevita Pearce, Reza Rahadian, Christine Hakim, Dimas Anggara, Jefri Nichol, dan Surya Saputra.</item>
+        <item>"Man of Steel" adalah cerita epik tentang asal-usul Superman, juga dikenal sebagai Kal-El dari planet Krypton. Film ini menggambarkan perjalanan heroiknya, bagaimana ia tiba di Bumi sebagai bayi, dan bagaimana ia mengembangkan kekuatan luar biasa akibat radiasi matahari kuning. Namun, ketika ancaman besar datang dalam bentuk musuh dari Krypton yang bertekad menghancurkan Bumi, Superman harus memutuskan antara akarinya dan dunia barunya. Pertempuran epik yang penuh aksi dan efek khusus menguji kekuatan dan karakternya. Ini adalah kisah pahlawan dengan pesan tentang harapan, keberanian, dan pengorbanan.</item>
+        <item>Venom adalah tokoh anti-hero yang memiliki kekuatan super dan kebal terhadap senjata tajam. Ia pertama kali muncul pada komik The Amazing Spider-Man #300 pada tahun 1988. Venom memiliki kekuatan fisik yang luar biasa, seperti kecepatan, kekuatan, dan daya tahan yang tinggi. Ia juga memiliki kemampuan untuk meregenerasi diri dan mengeluarkan jaring laba-laba seperti Spider-Man. Selain itu, Venom juga memiliki kelemahan, yaitu bisa dilumpuhkan dengan listrik. Venom telah muncul dalam berbagai media, termasuk film, televisi, dan video game. Film Venom (2018) dibintangi oleh Tom Hardy dan menjadi sukses di box office.</item>
+        <item>Wakanda adalah negara fiksi di Afrika yang kaya akan sumber daya vibranium. Itu adalah rumah bagi Black Panther dan teknologi canggih. Film ini sangat keren untuk dinikmati dan dapat dirasakan keseruannya saat menonton film ini</item>
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/ant_man</item>
+        <item>@drawable/flash</item>
+        <item>@drawable/gatot_kaca</item>
+        <item>@drawable/guardian_galaxy</item>
+        <item>@drawable/iron_man</item>
+        <item>@drawable/shazam</item>
+        <item>@drawable/sri_asih</item>
+        <item>@drawable/superman</item>
+        <item>@drawable/venom</item>
+        <item>@drawable/wakanda</item>
+    </integer-array>
+</resources>
